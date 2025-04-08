@@ -31,6 +31,16 @@
       "year": 2025,
       "pages": 6
     },
+    {
+      "id": 51,
+      "image": "/portfolio.png",
+      "link": "https://portfolio-roan-psi-54.vercel.app/",
+      "name": "Portfolio",
+      "description": "Multi page",
+      "technologies": ["REACT","SCSS", "BEM", "FLEX", "GRID", "HTML5","gsap", "CSS3", "JavaScript", "Responsive"],
+      "year": 2025,
+      "pages": 6
+    },
     
     {
       "id": 56,
@@ -53,16 +63,6 @@
        "pages": 2
      },
      {
-       "id": 61,
-       "technologies": ["REACT", "SCSS", "BEM", "FLEX", "GRID", "HTML5", "CSS3", "JavaScript", "Responsive"],
-       "image": "/Workout.png",
-       "link": "https://workout2102.vercel.app/",
-       "name": "Workout",
-       "description": "Landing page",
-       "year": 2025,
-       "pages": 1
-      },
-     {
        "id": 52,
        "technologies": ["REACT", "SCSS", "BEM", "FLEX", "GRID", "HTML5", "CSS3", "JavaScript", "Responsive"],
        "image": "/digital.png",
@@ -72,6 +72,16 @@
        "year": 2024,
        "pages": 1
       },
+      {
+        "id": 61,
+        "technologies": ["REACT", "SCSS", "BEM", "FLEX", "GRID", "HTML5", "CSS3", "JavaScript", "Responsive"],
+        "image": "/Workout.png",
+        "link": "https://workout2102.vercel.app/",
+        "name": "Workout",
+        "description": "Landing page",
+        "year": 2025,
+        "pages": 1
+       },
       
       {
         "id": 62,
