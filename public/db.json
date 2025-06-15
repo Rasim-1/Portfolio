@@ -41,6 +41,16 @@
       "year": 2025,
       "pages": 6
     },
+    {
+      "id": 52,
+      "image": "/CYSPNET.png",
+      "link": "https://cyspnet.vercel.app/",
+      "name": "CYSPNET",
+      "description": "Multi page",
+      "technologies": ["REACT","SCSS", "BEM", "FLEX", "GRID", "HTML5", "CSS3", "FIGMA", "JavaScript", "Responsive"],
+      "year": 2025,
+      "pages": 6
+    },
     
     {
       "id": 56,
